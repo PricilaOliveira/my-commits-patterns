@@ -16,4 +16,4 @@
 *```docs```* :open_book: open_book	<br>
 *```revert```* :leftwards_arrow_with_hook: leftwards_arrow_with_hook <br>
 <br>
-<sub>[Lista de Emojis do Git](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) <br>
+[Lista de Emojis do Git](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) | [Sintaxe e Formatação Git](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
