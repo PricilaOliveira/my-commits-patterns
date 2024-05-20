@@ -1,5 +1,5 @@
 
-# Para facilitar o entendimento e padronizar os commits
+# Para facilitar o entendimento e padronizar meus commits
 
 *```new```* Quando está sendo criado um arquivo novo. <br>
 *```fix```* Algum ajuste de erro ou bug. <br>
